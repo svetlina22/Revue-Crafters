@@ -26,15 +26,15 @@ jobs:
 
       # Restore NuGet packages
       - name: Restore packages
-        run: dotnet restore ${{ env.SOLUTION_FILE }}
+        run: dotnet restore "${{ env.SOLUTION_FILE }}"
 
       # Build the solution
       - name: Build solution
-        run: dotnet build ${{ env.SOLUTION_FILE }} --configuration Release --no-restore
+        run: dotnet build "${{ env.SOLUTION_FILE }}" --configuration Release --no-restore
 
       # Run all tests
       - name: Run tests
-        run: dotnet test ${{ env.SOLUTION_FILE }} --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
+        run: dotnet test "${{ env.SOLUTION_FILE }}" --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
 
       # Upload test results as artifact
       - name: Upload test results
