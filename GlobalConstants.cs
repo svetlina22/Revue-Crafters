@@ -7,7 +7,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Revue_Crafters
+namespace RevueCrafters
 {
     public static class GlobalConstants
     {

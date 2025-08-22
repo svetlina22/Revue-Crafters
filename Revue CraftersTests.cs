@@ -17,7 +17,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Revue_Crafters
 {
     [TestFixture]
-    public class Revue_CraftersTests
+    public class RevueCraftersTests
     {
         private RestClient client;
         private string accessToken;

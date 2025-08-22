@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Revue_Crafters.DTO
+namespace RevueCrafters.DTO
 {
     public class RevueDto
     {

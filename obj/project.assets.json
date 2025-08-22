@@ -1029,9 +1029,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\Revue Crafters.csproj",
-      "projectName": "Revue Crafters",
-      "projectPath": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\Revue Crafters.csproj",
+      "projectUniqueName": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\RevueCrafters.csproj",
+      "projectName": "RevueCrafters",
+      "projectPath": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\RevueCrafters.csproj",
       "packagesPath": "C:\\Users\\svetlinaterzieva\\.nuget\\packages\\",
       "outputPath": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\obj\\",
       "projectStyle": "PackageReference",

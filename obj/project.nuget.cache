@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTDzIKAd6lg=",
+  "dgSpecHash": "3c/mlPFrO0g=",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\Revue Crafters.csproj",
+  "projectFilePath": "\\\\Mac\\Back-End Technologies\\Back-End Automation\\Revue Crafters\\RevueCrafters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svetlinaterzieva\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\svetlinaterzieva\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
