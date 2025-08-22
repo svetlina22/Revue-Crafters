@@ -7,7 +7,7 @@ on:
 
 env:
   DOTNET_VERSION: '7.0'
-  SOLUTION_FILE: 'RevueCrafters.sln'
+  SOLUTION_FILE: 'Revue Crafters.sln'
 
 jobs:
   build-and-test:
